@@ -1,1 +1,3 @@
-# minor_First
+
+hello guys this is myforst project
+
